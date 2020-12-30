@@ -1,5 +1,5 @@
 package qam1.DAO;
-import qam1.DAO.model;
+import model.Appointment;
 /**
  * Project: Qam1
  * Package: qam1.DAO
@@ -15,9 +15,9 @@ public class AppointmentDAOImpl {
     /**
      * Define all of the DB functions used for retrieving Appointment Data
      */
-    public static ObservableList<Appointment> getAllAppointments() throws SQLException {
+    //public static ObservableList<`Appointment> getAllAppointments() throws SQLException {
 
-    }
+    //}
 
 
 }
